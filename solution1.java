@@ -1,5 +1,5 @@
 import java.util.*;
-public class solution {
+public class solution1 {
     static ArrayList<String> longestWords(String[] dictionary) {
         ArrayList<String> list = new ArrayList<String>();
         int longest_length = 0;
